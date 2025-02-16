@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on building responsive web applications
 - 🌱 I'm learning **Spring Boot** and advancing my web development skills
-- 👨‍💻 Check out my portfolio: [mansi-raj.github.io](https://mansi-raj.github.io/Portfolio/)
+- 👨‍💻 Check out my portfolio: [mansi-raj.github.io/Portfolio/](https://mansi-raj.github.io/Portfolio/)
 - 📫 Reach me at: **mansi.raj.jnv@gmail.com**
 - 💼 Open to new opportunities
 
