@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansi Raj</h1>
 <h3 align="center">Aspiring Technologist | Developer | Solution Seeker</h3>
-🌱 I’m currently learning **Spring Boot**
 <p align="center">Welcome to my GitHub profile! I'm a Computer Science Engineering student with a strong foundation in web development and a drive for creating impactful solutions.</p>
 
 - 🔭 I'm currently working on building responsive web applications
