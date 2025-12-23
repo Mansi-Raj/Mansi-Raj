@@ -1,7 +1,7 @@
 # Hi there, I'm Mansi Raj! 👋
 
 ### 🎓 Computer Science Graduate | Aspiring Software Engineer
-[cite_start]I am a Computer Science & Engineering graduate(2025)[cite: 4, 5, 6]. I am actively looking for opportunities in **Software Engineering** where I can apply my technical skills and problem-solving abilities to build impactful solutions.
+I am a Computer Science & Engineering graduate(2025). I am actively looking for opportunities in **Software Engineering** where I can apply my technical skills and problem-solving abilities to build impactful solutions.
 
 ---
 
